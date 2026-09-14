@@ -1,0 +1,14 @@
+{
+  "name": "yuki-neurona",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Локальный desktop AI-компаньон (VRM + LM Studio + Edge TTS)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "tts": "python tts_server.py"
+  },
+  "devDependencies": {
+    "electron": "^31.7.7"
+  }
+}

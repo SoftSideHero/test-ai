@@ -1,0 +1,5 @@
+node_modules/
+secrets.json
+memory.json
+*.log
+.DS_Store

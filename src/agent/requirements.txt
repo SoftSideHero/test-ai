@@ -1,0 +1,26 @@
+# Terraria AI Agent Dependencies
+
+# Screen capture and image processing
+mss>=9.0.1
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Input simulation
+pyautogui>=0.9.54
+pynput>=1.7.6
+
+# Machine learning for object detection (optional, for advanced detection)
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# Utilities
+keyboard>=0.13.5
+mouse>=0.7.1
+screeninfo>=0.8.1
+
+# For template matching and color detection
+scikit-image>=0.21.0
+
+# Configuration
+pyyaml>=6.0
